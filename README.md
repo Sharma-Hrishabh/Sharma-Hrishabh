@@ -1,16 +1,16 @@
+![enter image description here](https://github.com/Sharma-Hrishabh/Sharma-Hrishabh/blob/master/hp.jpg?raw=true)
+
 ### Hi there 👋
+I'm a Hrishabh (he/him) 😄 , a Junior Undergrad Student in Computer Engg. at NIT Surat. 
 
-<!--
-**Sharma-Hrishabh/Sharma-Hrishabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - :thought_balloon: I'm really into software and web development, with the increasing interest in the world of DLTs nowadays. 
+ - 🔭 I’m currently working as a Student developer at OpenSCAD under Goodle Summer of Code program. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me at 📫  : 
+
+ - Personal Webpage: [sharma-hrishabh.me](sharma-hrishabh.me)
+ - Twitter: [_sharmahrishabh](https://twitter.com/_sharmahrishabh)
+ - LinkedIn: [hrishabh-sharma-122338163](https://www.linkedin.com/in/hrishabh-sharma-122338163/)
+ - Medium: [@hrishabh01sharma](https://medium.com/@hrishabh01sharma)
+
