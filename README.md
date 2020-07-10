@@ -5,6 +5,9 @@
  - :thought_balloon: I'm really into software and web development, with the increasing interest in the world of DLTs nowadays. 
  - 🔭 I’m currently working as a Student developer at OpenSCAD under Goodle Summer of Code program. 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 You can find me at 📫  : 
 
@@ -13,5 +16,4 @@ You can find me at 📫  :
  - LinkedIn: [hrishabh-sharma-122338163](https://www.linkedin.com/in/hrishabh-sharma-122338163/)
  - Medium: [@hrishabh01sharma](https://medium.com/@hrishabh01sharma)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
