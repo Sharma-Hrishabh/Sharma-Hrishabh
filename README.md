@@ -4,10 +4,8 @@
  - 😄 I'm Hrishabh (he/him), a Junior Undergrad Student in Computer Engg. at NIT Surat. 
  - :thought_balloon: I'm really into software and web development, with the increasing interest in the world of DLTs nowadays. 
  - 🔭 I’m currently working as a Student developer at OpenSCAD under Google Summer of Code program. 
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+ 
+![Hrishabh's github stats](https://github-readme-stats.vercel.app/api?username=Sharma-Hrishabh&show_icons=true&hide_border=true)
 
 You can find me at 📫  : 
 
