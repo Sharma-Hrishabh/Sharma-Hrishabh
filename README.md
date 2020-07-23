@@ -14,3 +14,4 @@ You can find me at 📫  :
  - LinkedIn: [hrishabh-sharma-122338163](https://www.linkedin.com/in/hrishabh-sharma-122338163/)
  - Medium: [@hrishabh01sharma](https://medium.com/@hrishabh01sharma)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-Hrishabh)](https://github.com/Sharma-Hrishabh/github-readme-stats)
