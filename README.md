@@ -1,7 +1,7 @@
 ![enter image description here](https://github.com/Sharma-Hrishabh/Sharma-Hrishabh/blob/master/hp.jpg?raw=true)
 
 ### Hi there 👋
- - 😄 I'm Hrishabh (he/him), a Junior Undergrad Student in Computer Engg. at NIT Surat. 
+ - 😄 I'm Hrishabh (he/him), a Senior Undergrad Student in Computer Engg. at NIT Surat. 
  - :thought_balloon: I'm really into software and web development, with the increasing interest in the world of DLTs nowadays. 
  - 🔭 I’m have completed the Google Summer of Code 2020 at OpenSCAD (BRLCAD). <br>Report -https://summerofcode.withgoogle.com/projects/#6337400843796480  
  
