@@ -1,3 +1,6 @@
+![enter image description here](https://github.com/Sharma-Hrishabh/Sharma-Hrishabh/blob/master/hp.jpg?raw=true)
+
+### Hi there 👋
 ### Hi there 👋
  - 😄 I'm Hrishabh (he/him), a Senior Undergrad Student in Computer Engg. at NIT Surat. 
  - :thought_balloon: I'm really interested in Blockchains, and Web Development. 
