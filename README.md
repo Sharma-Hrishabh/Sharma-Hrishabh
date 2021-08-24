@@ -2,7 +2,7 @@
 
 ### Hi there 👋
  - 😄 I'm Hrishabh (he/him), a Computer Engineer from NIT Surat, India.
- - Currently I'm working at HSBC, as a Software Engineer in the Enterprise Technology Business Unit. 
+ - :briefcase:	Currently I'm working at HSBC, as a Software Engineer in the Enterprise Technology Business Unit. 
  - :thought_balloon: I'm really interested in Blockchains, and Web Development. 
  - 🔭 I have completed the Google Summer of Code 2020 at OpenSCAD (BRLCAD). <br>Report-https://medium.com/@hrishabh01sharma/gsoc-2020-with-openscad-ccc03f547203  
  - In free time, I watch animes and play valorant.
