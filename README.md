@@ -9,7 +9,7 @@
 You can find me at 📫  : 
 
  - Personal Webpage: [https://sharma-hrishabh.github.io/](https://sharma-hrishabh.github.io/)
- - LinkedIn: [hrishabh-sharma-122338163](https://www.linkedin.com/in/hrishabh-sharma-122338163/)
+ - Twitter: [_sharmahrishabh](https://twitter.com/_sharmahrishabh)
  - Medium: [@hrishabh01sharma](https://medium.com/@hrishabh01sharma)
  
 
